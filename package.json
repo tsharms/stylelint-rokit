@@ -1,0 +1,20 @@
+{
+  "name": "stylelint-rokit",
+  "version": "1.0.0",
+  "description": "Rokit rules for your SCSS",
+  "main": "index.js",
+  "keywords": [
+      "stylelint",
+      "config",
+      "rokit",
+      "sass",
+      "scss",
+      "css",
+      "postcss"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bart van der Waerden",
+  "license": "ISC"
+}
