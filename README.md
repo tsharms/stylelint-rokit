@@ -34,7 +34,7 @@ own rules and set them as shown below.
 ```json
 {
   "extends": [
-    "stylelint-config-semantic"
+    "stylelint-rokit"
   ],
   "rules": {
     "indentation": 2
