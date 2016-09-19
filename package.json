@@ -1,6 +1,6 @@
 {
   "name": "stylelint-rokit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rokit rules for your SCSS",
   "main": "index.js",
   "keywords": [
