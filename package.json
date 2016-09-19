@@ -15,6 +15,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bart van der Waerden",
-  "license": "ISC"
+  "homepage": "https://github.com/BartvdWaerden/cz-rokit-commit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BartvdWaerden/stylelint-rokit"
+  },
+  "author": "Bart van der Waerden <bwaerden@gmail.com>",
+  "license": "MIT"
 }
