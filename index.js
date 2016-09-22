@@ -1,4 +1,5 @@
-{
+
+module.exports = {
     "rules": {
         "at-rule-empty-line-before": ["always", {
             except: ["blockless-group"],
@@ -249,7 +250,7 @@
         "value-list-comma-newline-before": "never-multi-line",
         "value-list-comma-space-after": "always",
         "value-list-comma-space-before": "never",
-        "value-list-max-empty-lines: "0",
+        "value-list-max-empty-lines": "0",
         "value-no-vendor-prefix": true
     }
 }

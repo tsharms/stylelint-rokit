@@ -3,6 +3,9 @@
   "version": "1.0.3",
   "description": "Rokit rules for your SCSS",
   "main": "index.js",
+  "devDependencies": {
+    "stylelint": "^7.3.1"
+  },
   "keywords": [
     "stylelint",
     "config",
@@ -10,7 +13,8 @@
     "sass",
     "scss",
     "css",
-    "postcss"
+    "postcss",
+    "rodesk"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
