@@ -26,7 +26,7 @@ module.exports = {
         "color-no-invalid-hex": true,
 
         "comment-empty-line-before": "always",
-        "comment-no-empty": "true",
+        "comment-no-empty": true,
 
         "declaration-bang-space-after": "never",
         "declaration-bang-space-before": "always",
@@ -171,7 +171,7 @@ module.exports = {
         "declaration-colon-space-after": "always",
         "declaration-colon-space-before": "never",
         "declaration-no-important": true,
-        "declaration-block-no-redundant-longhand-properties": "true",
+        "declaration-block-no-redundant-longhand-properties": true,
 
         "font-family-name-quotes": "always-where-required",
         "font-weight-notation": "numeric",
@@ -228,7 +228,7 @@ module.exports = {
         "rule-nested-empty-line-before": "always",
         "rule-non-nested-empty-line-before": "always",
 
-        "selector-descendant-combinator-no-non-space": "true",
+        "selector-descendant-combinator-no-non-space": true,
         "selector-pseudo-class-parentheses-space-inside": "never",
         "selector-pseudo-element-case": "lower",
         "selector-pseudo-element-colon-notation": "double",
@@ -250,7 +250,7 @@ module.exports = {
         "value-list-comma-newline-before": "never-multi-line",
         "value-list-comma-space-after": "always",
         "value-list-comma-space-before": "never",
-        "value-list-max-empty-lines": "0",
+        "value-list-max-empty-lines": 0,
         "value-no-vendor-prefix": true
     }
 }
