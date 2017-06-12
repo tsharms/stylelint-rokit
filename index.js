@@ -93,7 +93,7 @@ module.exports = {
         "number-leading-zero": "never",
         "number-no-trailing-zeros": true,
 
-        "order/declaration-block-order": [
+        "order/order": [
             {
                 type: 'at-rule',
                 name: 'extend',
@@ -111,7 +111,7 @@ module.exports = {
                 hasBlock: true
             },
         ],
-        "order/declaration-block-properties-specified-order": [
+        "order/properties-order": [
             "display",
             "position",
             "top",
