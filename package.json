@@ -1,6 +1,6 @@
 {
-  "name": "stylelint-rokit",
-  "version": "1.0.3",
+  "name": "stylelint-rodesk",
+  "version": "1.0.5",
   "description": "Rokit rules for your SCSS",
   "main": "index.js",
   "devDependencies": {
@@ -22,8 +22,11 @@
   "homepage": "https://github.com/BartvdWaerden/cz-rokit-commit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BartvdWaerden/stylelint-rokit"
+    "url": "https://github.com/tsharms/stylelint-rokit"
   },
-  "author": "Bart van der Waerden <bwaerden@gmail.com>",
+  "contributers": [
+      "Bart van der Waerden <bwaerden@gmail.com>",
+      "Tom Harms <tomharms93@gmail.com>"
+  ],
   "license": "MIT"
 }

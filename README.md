@@ -9,32 +9,32 @@ purpose of this set of rules powered by
 
 You need to have `stylelint` and this config as part of your `devDependencies`.
 
-`npm i stylelint stylelint-rokit -D`
+`npm i stylelint stylelint-rodesk -D`
 
 ## Usage
 
 ### Load everything
 
-To use all the rules all at once add `stylelint-rokit` to your
+To use all the rules all at once add `stylelint-rodesk` to your
 `extends` property in `.stylelintrc`.
 
 ```json
 {
   "extends": [
-    "stylelint-rokit"
+    "stylelint-rodesk"
   ]
 }
 ```
 
 ### Override specific rules
 
-To override the rules set by `stylelint-rokit` you need to define your
+To override the rules set by `stylelint-rodesk` you need to define your
 own rules and set them as shown below.
 
 ```json
 {
   "extends": [
-    "stylelint-rokit"
+    "stylelint-rodesk"
   ],
   "rules": {
     "indentation": 2
