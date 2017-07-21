@@ -59,7 +59,6 @@ module.exports = {
         "function-max-empty-lines": 0,
         "function-parentheses-newline-inside": "never-multi-line",
         "function-parentheses-space-inside": "never",
-        "function-url-data-uris": "never",
         "function-whitespace-after": "always",
 
         "indentation": 4,
