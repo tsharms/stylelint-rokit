@@ -4,7 +4,7 @@
   "description": "Rokit rules for your SCSS",
   "main": "index.js",
   "devDependencies": {
-    "stylelint": "^7.11.0"
+    "stylelint": "^9.1.1"
   },
   "keywords": [
     "stylelint",
@@ -25,8 +25,8 @@
     "url": "https://github.com/tsharms/stylelint-rokit"
   },
   "contributers": [
-      "Bart van der Waerden <bwaerden@gmail.com>",
-      "Tom Harms <tomharms93@gmail.com>"
+    "Bart van der Waerden <bwaerden@gmail.com>",
+    "Tom Harms <tomharms93@gmail.com>"
   ],
   "license": "MIT"
 }
