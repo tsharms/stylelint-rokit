@@ -106,6 +106,48 @@ module.exports = {
             {
                 type: 'at-rule',
                 name: 'include',
+                parameter: 'first',
+                hasBlock: true
+            },
+            "rules",
+            {
+                type: 'at-rule',
+                name: 'include',
+                parameter: 'last',
+                hasBlock: true
+            },
+            "rules",
+            {
+                type: 'at-rule',
+                name: 'include',
+                parameter: 'first-child',
+                hasBlock: true
+            },
+            "rules",
+            {
+                type: 'at-rule',
+                name: 'include',
+                parameter: 'last-child',
+                hasBlock: true
+            },
+            "rules",
+            {
+                type: 'at-rule',
+                name: 'include',
+                parameter: 'even',
+                hasBlock: true
+            },
+            "rules",
+            {
+                type: 'at-rule',
+                name: 'include',
+                parameter: 'odd',
+                hasBlock: true
+            },
+            "rules",
+            {
+                type: 'at-rule',
+                name: 'include',
                 parameter: 'breakpoint',
                 hasBlock: true
             },
