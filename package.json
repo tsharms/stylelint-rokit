@@ -1,6 +1,6 @@
 {
   "name": "stylelint-rodesk",
-  "version": "1.5.0",
+  "version": "1.5.99",
   "description": "Rokit rules for your SCSS",
   "main": "index.js",
   "devDependencies": {
